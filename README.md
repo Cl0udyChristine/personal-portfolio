@@ -13,7 +13,7 @@ As I've built and worked and supported a variety of projects, I realized I SHOUL
 
 ### 💻 Full-Stack & General Development
 - **Languages & Frameworks:** JavaScript, TypeScript, Node.js.
-- **Application Dev:** Building standalone utility apps and data tools (`gathered-app`) that extend beyond traditional platform boundaries.
+- **Application Dev:** Building standalone utility apps and data tools (`knot-app`) that extend beyond traditional platform boundaries.
 - **Integrations:** REST/SOAP APIs, custom webhooks, and secure data pipelines.
 
 ### 🛡️ Quality & Deployment Confidence
@@ -22,6 +22,6 @@ As I've built and worked and supported a variety of projects, I realized I SHOUL
 
 ---
 
-## 📂 Featured Repositories
+## 🚀 Project Showcase
 
 * This is where the magic happens... Coming soon!
