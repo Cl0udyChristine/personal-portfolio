@@ -40,7 +40,7 @@ As I've built, architected, and supported a variety of enterprise ecosystems, I 
 I’m currently expanding my architectural footprint deeper into data engineering and automated infrastructure to support next-gen AI and data ecosystem integrations.
 
 * **Snowflake Data Engineering:** Mastering advanced warehousing, multi-cluster data sharing, and complex SQL optimization to build seamless, zero-maintenance data integrations between external data lakes and CRM layers.
-* * **Python & Data Automation:** Deep-diving into Python for writing advanced data transformation scripts, building automated ETL pipelines, and interacting with custom REST/SOAP APIs.
+* **Python & Data Automation:** Deep-diving into Python for writing advanced data transformation scripts, building automated ETL pipelines, and interacting with custom REST/SOAP APIs.
 * **Advanced DevOps & AI Operations:** Continuing to bridge the gap between secure release management (Copado) and autonomous agent deployments (Agentforce) to build true continuous-delivery pipelines for AI-driven ecosystems.
 ---
 
