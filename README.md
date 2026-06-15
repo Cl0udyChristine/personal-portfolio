@@ -1,4 +1,4 @@
-#🚀Nova's Landing
+🚀Nova's Landing
 
 As I've built, architected, and supported a variety of enterprise ecosystems, I realized I SHOULD BE PUTTING THESE IN A PORTFOLIO. Passionate about engineering elegant solutions, bridging systems, and pushing the boundaries of autonomous tech. Growth doesn't happen in our comfort zone...
 
