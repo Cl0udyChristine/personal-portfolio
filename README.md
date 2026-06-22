@@ -1,63 +1,227 @@
-## 🚀Nova's Landing
+# 🚀 Nova's Landing
 
-As I've built, architected, and supported a variety of enterprise ecosystems, I realized I SHOULD BE PUTTING THESE IN A PORTFOLIO. Passionate about engineering elegant solutions, bridging systems, and pushing the boundaries of autonomous tech. Growth doesn't happen in our comfort zone...
 
----
+Greetings from the depths of Space (Coast Florida)
 
-## 🛠️ The Tech Ecosystem
+I'm building this portfolio to document the Salesforce solutions I’ve designed, configured, automated, cleaned up, and extended across real-world consulting work and portfolio projects. My focus is building scalable Salesforce solutions that make business processes clearer, cleaner, and easier to manage.
 
-### ☁️ Salesforce Architecture & Declarative Engineering
-* **Advanced Automation:** Heavy emphasis on "Clicks over Code"—architecting deep-dive, high-volume **Salesforce Flow** structures, event-driven automation (**Platform Events**), and complex transactional logic built for scalability and performance.
-* **Data & Schema Design:** Enterprise-level relational data modeling, custom object schema creation, large data volumes (LDV) strategy, and strict data integrity enforcement.
-* **Core Platforms:** Advanced administration across Service Cloud (VIP SLAs, Omni-Channel routing) and early adoption/deployment of **Agentforce** autonomous AI agents.
+I specialize in Salesforce architecture, Flow automation, Service Cloud, data quality and analysis, integrations, and creative use cases that show how flexible the platform can be when it is designed with intention.
 
-### 🔗 Third-Party Ecosystems & Middleware
-* **Titan Suite (Sign, Forms, & Web):** Architecting end-to-end digital experiences and document automation pipelines. Designing bi-directional Salesforce integrations using **Titan Forms** for complex, multi-object data intake and **Titan Web** for building dynamic, zero-code customer portals that read and write data in real time while maintaining strict security compliance.
-* **Microsoft Outlook & Communication Integrations:** Custom integration architectures syncing core business data (Contacts, Events) using Apex-defined variables within declarative automation.
-* **Data Tools & Productivity Utilities:** Leveraging enterprise tools like **Data Loader** and **PowerQuery** for high-volume data manipulations, schema re-alignments, and environment migrations, alongside **XL-Connector** for running agile Excel-to-Salesforce data operations and rapid bi-directional updates.
-* **Custom Extensibility:** Building and managing external app tools (like `knot-app`) that extend platform capabilities and establish secure data pipelines via REST/SOAP APIs and custom webhooks.
+Growth does not happen in our comfort zone, so this portfolio is where I continue to build, test, document, and push my Salesforce skills forward.
 
-### 💾 Data Intelligence & Querying
-* **Data Cloud (Data 360):** Architecting real-time ingestion pipelines, data harmonization, schema mapping, and identity resolution rules to build unified customer profiles.
-* **Relational Databases & SQL:** Querying, filtering, and manipulating large datasets to audit data quality, manage system-to-system migrations, and handle technical debt remediation.
+# 🧭 Portfolio Philosophy
 
----
+My goal is not just to show that I can configure Salesforce.
 
-## 🏆 Milestones & Credentials
+My goal is to show that I can think through the full solution.
 
-### 🌟 Specialized Credentials
-* **Agentforce Specialist** – Designing and deploying autonomous AI agents to automate intelligent workflows.
-* **Copado AI Certified** – Utilizing AI-driven DevOps practices to optimize release management, automated testing, and deployment pipelines.
-* **Data Cloud (Data 360) & Modern Data Stack:** Architecting real-time ingestion pipelines, data harmonization, schema mapping, and identity resolution rules to build unified customer profiles. Designing zero-copy data shares and secure data pipelines integrating Salesforce Data Cloud with enterprise data warehouses like **Snowflake**.
-* **Service Cloud Consultant** – Designing end-to-end contact center solutions and high-efficiency case management.
-* **Titan Certified (Sign, Forms, & Web)** – End-to-end document automation, portal architecture, and dynamic data-intake engineering.
-* **Intermediate SQL** – Extract, filter, and handle missing data in relational databases, as well as how to summarize and group that data to uncover key performance trends.
+That means understanding the business problem, designing the data model, building the automation, protecting the user experience, documenting the process, and making sure the solution can grow without becoming impossible to maintain.
+
+Salesforce is powerful, but only when the architecture is clear, the data is trustworthy, and the process makes sense to the people using it.
+
+That is the kind of work I want this portfolio to show.
 
 ---
 
-## 🔮 Up Next & Continuous Learning
+# 🛠️ Salesforce Skills & Platform Focus
 
-I’m currently expanding my architectural footprint deeper into data engineering and automated infrastructure to support next-gen AI and data ecosystem integrations.
+## ☁️ Salesforce Architecture & Declarative Engineering
 
-* **Snowflake Data Engineering:** Mastering advanced warehousing, multi-cluster data sharing, and complex SQL optimization to build seamless, zero-maintenance data integrations between external data lakes and CRM layers.
-* **Python & Data Automation:** Deep-diving into Python for writing advanced data transformation scripts, building automated ETL pipelines, and interacting with custom REST/SOAP APIs.
-* **Advanced DevOps & AI Operations:** Continuing to bridge the gap between secure release management (Copado) and autonomous agent deployments (Agentforce) to build true continuous-delivery pipelines for AI-driven ecosystems.
+### Advanced Salesforce Flow Automation
+
+* Architecting scalable screen flows, record-triggered flows, scheduled flows, and autolaunched flows
+* Designing automation with clean entry criteria, fault paths, debug-friendly structure, and maintainability in mind
+* Building multi-object automation that supports real business processes without overcomplicating the org
+* Using “clicks before code” where it makes sense while knowing when custom development is the better path
+
+### Data Model & Schema Design
+
+* Designing custom objects, fields, relationships, page layouts, record types, and permission structures
+* Building data models that support reporting, automation, integrations, and long-term scalability
+* Working with lookup and master-detail relationships, junction objects, and account hierarchies
+* Supporting data integrity through validation rules, required fields, duplicate prevention, and controlled picklists
+
+### Service Cloud & Case Management
+
+* Configuring Service Cloud for support teams, internal operations, and customer-facing processes
+* Designing case intake, assignment, routing, escalation, SLAs, and lifecycle tracking
+* Working with Entitlements, Milestones, Omni-Channel, queues, case record types, and support process design
+* Building practical automation that helps agents work faster without losing visibility
+
+### Experience Cloud & Community Portals
+
+* Designing portal-based experiences for external users, community members, vendors, and customers
+* Supporting authenticated and unauthenticated user journeys
+* Building intake flows, reporting processes, and self-service experiences connected to Salesforce records
+* Designing community reporting models using Cases, Work Orders, Assets, and QR-code-based entry points
+
+---
+
+# 🔗 Salesforce Integrations & Ecosystem Tools
+
+## Titan Suite: Forms, Sign, and Web
+
+* Building Salesforce-connected forms for complex multi-object data intake
+* Designing document generation and e-signature workflows
+* Creating portal-like experiences using Titan Web with real-time Salesforce read/write functionality
+* Supporting secure external experiences while keeping Salesforce as the system of record
+
+## Data Tools & Migration Support
+
+* Using Data Loader, XL-Connector, Excel, and PowerQuery for data cleanup, imports, exports, and transformation work
+* Supporting org cleanups, object/field mapping, and schema realignment
+* Preparing data for migrations, reporting, automation fixes, and technical debt remediation
+* Auditing data quality issues and designing processes to prevent recurring problems
+
+## External Integrations & Custom Extensibility
+
+* Supporting Salesforce integrations with external systems through APIs, middleware concepts, and automation-friendly design
+* Working with REST/SOAP concepts, webhooks, and integration requirements
+* Collaborating with developers when Apex, LWCs, or custom services are needed
+* Designing declarative solutions that are ready to scale into custom development when appropriate
+
+---
+
+# 💾 Data, AI, and Intelligence Layer
+
+## Data Cloud / Data 360
+
+* Exploring real-time data ingestion, identity resolution, schema mapping, and customer profile unification
+* Designing use cases where Salesforce Data Cloud can improve segmentation, personalization, and reporting
+* Understanding how external data warehouses like Snowflake can connect to the Salesforce ecosystem
+
+## SQL & Data Analysis
+
+* Using SQL/SOQL concepts to query, filter, summarize, and validate data
+* Supporting data audits, migration planning, and technical debt cleanup
+* Translating messy business data into usable Salesforce structures
+
+## Agentforce & AI-Ready Salesforce Design
+
+* Designing Salesforce processes with clean data, strong automation logic, and clear user journeys to support AI-readiness
+* Exploring Agentforce use cases for lead generation, service support, and intelligent workflow automation
+* Understanding that strong AI outcomes depend on strong Salesforce architecture and reliable data
+
+---
+
+# 🏆 Credentials & Specialized Training
+
+* **Agentforce Specialist**
+  Designing and understanding autonomous AI agents within the Salesforce ecosystem.
+
+* **Service Cloud Consultant**
+  Building scalable support processes, case management models, SLAs, and service operations.
+
+* **Titan Certified: Forms, Sign, and Web**
+  Creating Salesforce-connected forms, document workflows, portals, and digital experiences.
+
+* **Copado AI Certified**
+  Understanding AI-supported DevOps, release management, and deployment practices.
+
+* **Data Cloud / Data 360 Learning Path**
+  Developing knowledge around customer profiles, data harmonization, identity resolution, and connected data architecture.
+
+* **Intermediate SQL**
+  Querying, filtering, grouping, and summarizing relational data to support reporting, migration, and data quality work.
+
+---
+
+# 🔮 Current Learning Focus
+
+I am currently expanding deeper into the areas that support modern Salesforce architecture: data engineering, AI-ready org design, DevOps, and custom extensibility.
+
+## Snowflake & Data Engineering
+
+Learning how external data warehouses, zero-copy architecture, and modern data pipelines can support Salesforce Data Cloud and enterprise CRM strategy.
+
+## Python & Data Automation
+
+Building skills in Python for data transformation, automation scripts, API interaction, and repeatable cleanup processes.
+
+## Salesforce Development Foundations
+
+Continuing to strengthen Apex, Lightning Web Components, GitHub workflows, and development best practices so I can better bridge the gap between admin, consultant, architect, and developer work.
+
+## DevOps & Release Management
+
+Expanding knowledge of Copado, source control, deployment strategy, environment management, and release governance for Salesforce projects.
+
+---
+
+# 🚀 Project Showcase
+
+## 🦺 Brevard County Parks
+
+### Field Service, Asset Management, and Community Reporting
+
+A Salesforce Field Service and community reporting concept designed to help local governments manage public spaces, assets, maintenance needs, and citizen-submitted issues.
+
+### The Business Need
+
+Parks and recreation teams need a better way to track assets, collect community reports, assign work, and monitor maintenance activity across parks, zones, cities, and county-managed locations.
+
+### The Salesforce Solution
+
+* Designed an Account hierarchy for county, city, zone, and park/location structure
+* Used **Assets** to represent park equipment, facilities, and public infrastructure
+* Used **Cases** for community-submitted issues and service requests
+* Used **Work Orders** to support maintenance follow-up and Field Service operations
+* Designed a QR-code-based reporting process for mobile issue submission
+* Planned community and super-community member roles for different levels of reporting access
+
+### Tech Stack
+
+Salesforce Field Service, Service Cloud, Asset Management, Experience Cloud, Flow Automation, Cases, Work Orders, Account Hierarchies
+
+---
+
+## 🧵 Silk & Soul
+
+### Luxury Service Cloud Architecture
+
+A Service Cloud portfolio project for a fictional high-end knitwear brand, focused on premium customer support, VIP service levels, and efficient case routing.
+
+### The Business Need
+
+A luxury brand needs a support model that can prioritize high-value customers, manage service expectations, track milestones, and route work to the right team members.
+
+### The Salesforce Solution
+
+* Designed a multi-tier support model for standard and VIP customers
+* Configured case record types and support processes
+* Built entitlement and milestone logic for SLA tracking
+* Designed Omni-Channel routing concepts for balanced agent workload
+* Created automation to support escalation, prioritization, and case visibility
+
+### Tech Stack
+
+Service Cloud, Cases, Entitlements, Milestones, Omni-Channel, Queues, Flow Automation, Reports and Dashboards
+
+---
+
+## 🔄 Enterprise Org Migration & Technical Debt Remediation
+
+### Salesforce Cleanup, Edition Downgrade, and Data Realignment
+
+A real-world consulting-style project focused on reducing Salesforce complexity, cleaning up legacy configuration, and supporting a major org transition.
+
+### The Business Need
+
+The org needed to move from a more complex Salesforce setup into a cleaner, more sustainable structure while preserving critical business operations and reducing technical debt.
+
+### The Salesforce Solution
+
+* Supported migration planning from Unlimited Edition to Enterprise Edition
+* Audited objects, fields, automation, reports, and legacy configuration
+* Helped map schema changes and identify areas of data divergence
+* Used data tools to clean, compare, and realign Salesforce records
+* Supported automation review and cleanup to reduce unnecessary complexity
+* Helped protect business continuity during a high-risk org transition
+
+### Tech Stack
+
+Salesforce Admin, Data Loader, XL-Connector, Excel/PowerQuery, Flow, Custom Objects, Schema Design, Reports, Data Quality Review
+
 ---
 
 
-## 🚀 Project Showcase
-
-### 🦺 Brevard County Parks - Field Service & Community Reporting
-An executable Field Service framework designed for real-time asset management and maintenance scheduling. 
-* **The Solution:** Built a custom schema tracking public assets, paired with a public community reporting portal powered by **QR codes** for instant mobile case submission.
-* **Tech Stack:** Salesforce Field Service, Asset Management, Experience Cloud, Flow Automation.
-
-### 🧵 Silk & Soul - Luxury Service Cloud Architecture
-A comprehensive portfolio piece demonstrating an enterprise contact center setup for a high-end, fictional luxury knitwear brand.
-* **The Solution:** Engineered a multi-tier support ecosystem featuring high-priority **VIP SLAs**, milestone tracking, and intelligent **Omni-Channel routing** to balance agent workloads seamlessly.
-* **Tech Stack:** Service Cloud, Omni-Channel, Entitlements & Milestones, Advanced Flow.
-
-### 🔄 Enterprise Org Migration & Technical Debt Remediation
-Spearheaded a massive org overhaul and edition downgrade under high-stakes constraints.
-* **The Solution:** Migrated a complex live environment from Unlimited to Enterprise edition, managing heavy data divergence, mapping schema re-alignments, and cleaning up years of legacy technical debt with zero production downtime.
-* **Tech Stack:** Data Loader, SQL/Data Tools, Salesforce Flow, Custom Schema Design.
